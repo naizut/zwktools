@@ -1,0 +1,14 @@
+*/**/node_modules/*
+*/**/.nuxt/*
+*/**/.vs/*
+*/**/obj/*
+*/**/bin/*
+*/**/App_Data/*
+*/**/dist/*
+*/**/build/*
+*/**/package-lock.json
+*/**/dist
+/dist
+./dist/**
+*/src/dist
+node_modules
